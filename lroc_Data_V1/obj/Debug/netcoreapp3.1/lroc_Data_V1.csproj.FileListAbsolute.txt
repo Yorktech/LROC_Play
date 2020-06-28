@@ -1,0 +1,4 @@
+D:\Source\Repos\lroc_Data_V1\lroc_Data_V1\obj\Debug\netcoreapp3.1\lroc_Data_V1.csprojAssemblyReference.cache
+D:\Source\Repos\lroc_Data_V1\lroc_Data_V1\obj\Debug\netcoreapp3.1\lroc_Data_V1.AssemblyInfoInputs.cache
+D:\Source\Repos\lroc_Data_V1\lroc_Data_V1\obj\Debug\netcoreapp3.1\lroc_Data_V1.AssemblyInfo.cs
+D:\Source\Repos\lroc_Data_V1\lroc_Data_V1\obj\Debug\netcoreapp3.1\lroc_Data_V1.csproj.CoreCompileInputs.cache

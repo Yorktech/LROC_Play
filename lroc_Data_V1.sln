@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lroc_Data_V1", "lroc_Data_V1\lroc_Data_V1.csproj", "{FAA7B619-3A24-43FC-8D8A-80DA73546190}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA7B619-3A24-43FC-8D8A-80DA73546190}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA7B619-3A24-43FC-8D8A-80DA73546190}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA7B619-3A24-43FC-8D8A-80DA73546190}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA7B619-3A24-43FC-8D8A-80DA73546190}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE42ED66-4A7F-4661-AC98-9C7C0681BC9C}
+	EndGlobalSection
+EndGlobal
